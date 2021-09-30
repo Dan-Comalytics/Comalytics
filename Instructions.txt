@@ -1,0 +1,5 @@
+1 - Pull from github
+2 - Either edit the existing files or create a new website folder
+    - make sure folder is names with the URL with out www
+    - Make sure that when you add files you follow webise structure
+3 - Once your changes are complete push back to github
